@@ -1,0 +1,2 @@
+# Cursed
+My cursed code
